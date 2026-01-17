@@ -83,4 +83,4 @@ if st.button("📝 Generate Summary"):
 # Footer
 st.markdown("---")
 st.caption("Developed as an NLP Capstone Project | HuggingFace + PyTorch")
-st.caption("Developed By HA-MAW")
+st.caption("Developed By HAA-MEEM")
