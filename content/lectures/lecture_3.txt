@@ -1,4 +1,4 @@
-Okay sooo, 10:03:07, today's lecture is on Operating Systems (OS).
+Okay sooo, 10:03:07, today's lecture is on Operating Systems (OS).                     
         OS acts as, umm... a bridge between user + hardware.
         Responsibilities: process mgmt, memory mgmt, file mgmt, device control… all that stuff.
         SJF, FCFS, Priority, Round Robin scheduling–– remember these algorithms.
