@@ -1,5 +1,6 @@
 📚 Automatic Lecture Summarizer using T5 (NLP Project)
-#Technologies used
+
+Technologies used
 -Python.
 -pyTorch.
 -Hugging Face Transformers.
