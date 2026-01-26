@@ -1,8 +1,17 @@
 📚 Automatic Lecture Summarizer using T5 (NLP Project)
+#Technologies used
+-Python.
+-pyTorch.
+-Hugging Face Transformers.
+-Hugging Face Datasets.
+-T5(Text-To-Text Transformers)
+-ROUGE Metric.
+-GPU(CUDA)
+-
 
 ##Project Overview
 
-Hi Everyone ,This project is not just about the seeing the final result ,it's beyond that actually it's a base line!
+This project is not just about the seeing the final result ,it's beyond that actually it's a base line!
 It's more about to understand the fundamental work flow and pipeline structure of almost every modern day Complex NLP-Model!
 
 Also this project is an education-focused NLP application that automatically generates concise summaries from long lecture transcripts.
@@ -167,6 +176,8 @@ Hugging Face 🤗 Transformers
 PyTorch
 
 Streamlit
+
+
 
 📬 Author
 
