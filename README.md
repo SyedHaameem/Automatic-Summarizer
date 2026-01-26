@@ -1,5 +1,6 @@
 📚 Automatic Lecture Summarizer using T5 (NLP Project)
-Project Overview
+
+##Project Overview
 
 Hi Everyone ,This project is not just about the seeing the final result ,it's beyond that actually it's a base line!
 It's more about to understand the fundamental work flow and pipeline structure of almost every modern day Complex NLP-Model!
